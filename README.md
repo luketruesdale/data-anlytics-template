@@ -2,6 +2,8 @@
 Starting template for data projects
 
 
+## Data Dictionary
+
 | Field       | Description                        | Samples                 |
 |-------------|------------------------------------|-------------------------|
 | Field 1     | Brief description of Field 1       | Sample data for Field 1 |
